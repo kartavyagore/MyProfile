@@ -64,7 +64,7 @@ Passions: 🚀 Tech, 🤖 AI, 💰 Investing
 
 ### 🌐 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartavyagore)<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartavya-gore)<br>
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:kartavyagore@gmail.com)<br>
 [![Portfolio](https://img.icons8.com/dotty/80/FFFFFF/resume-website.png)](https://kartavyagore.me)
 
